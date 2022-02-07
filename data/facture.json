@@ -1,0 +1,67 @@
+[
+
+    {
+        "id":1,
+        "montant":150,
+        "date":"2021-01-10",
+        "idClient":1,
+        "statut":2
+        
+
+
+    },
+    {
+        "id":2,
+        "montant":350,
+        "date":"2021-05-10",
+        "idClient":2,
+        "statut":2
+        
+
+
+    },
+    {
+        "id":3,
+        "montant":200,
+        "date":"2021-07-12",
+        "idClient":3,
+        "statut":1
+        
+
+
+    },
+    {
+        "id":4,
+        "montant":200,
+        "date":"2021-07-12",
+        "idClient":3,
+        "statut":1
+        
+
+
+    },
+    {
+        "id":5,
+        "montant":200,
+        "date":"2021-07-12",
+        "idClient":3,
+        "statut":1
+        
+
+
+    },
+    {
+        "id":6,
+        "montant":200,
+        "date":"2021-07-12",
+        "idClient":3,
+        "statut":1
+        
+
+
+    }
+
+
+
+
+]
